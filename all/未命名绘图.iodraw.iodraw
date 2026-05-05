@@ -40,6 +40,12 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-19" value="输出平滑速度指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="445" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-21" value="导航结束" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;horizontal=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
