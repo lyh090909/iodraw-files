@@ -359,13 +359,13 @@
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-51" value="Package2" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="486.25" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QQBZyrhDXzsn2oAQS0-d-52" value="功能包3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="96.25" width="60" height="30" as="geometry" />
+        <mxCell id="QQBZyrhDXzsn2oAQS0-d-52" value="功能包清单文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="96.25" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="126.25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QQBZyrhDXzsn2oAQS0-d-54" value="Package3" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QQBZyrhDXzsn2oAQS0-d-54" value="Package.xml" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="126.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-55" value="功能包配置文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
