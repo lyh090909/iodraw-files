@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="O7mU5DevhlLkI45u1tcp">
-    <mxGraphModel dx="1002" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="573" dy="319" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,10 +55,10 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-23" value="子目标后是否偏离原全局路径" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="425" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MOkQ_K5Fmc2Ylyvm4sNT-6" target="MOkQ_K5Fmc2Ylyvm4sNT-12">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MOkQ_K5Fmc2Ylyvm4sNT-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="490" y="320" as="sourcePoint" />
-            <mxPoint x="540" y="270" as="targetPoint" />
+            <mxPoint x="480" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
