@@ -126,7 +126,7 @@
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="430" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-15" value="输出平滑速度指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-15" value="应答文本" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="435" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-16" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" vertex="1" parent="1">
@@ -138,7 +138,7 @@
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="450" y="260" width="190" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-21" value="是否偏离原全局路径" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-21" value="是否为导航或停止关键词" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="285" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-25" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
