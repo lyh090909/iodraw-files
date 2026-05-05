@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cqgPXFLMecIBHkW9f0V6" name="第 3 页">
-    <mxGraphModel dx="1002" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1179" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -303,7 +303,7 @@
           <mxGeometry x="398.75" y="186.25" width="122.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-33" value="Include/&amp;lt;pkg_name&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="425" y="186.25" width="70" height="30" as="geometry" />
+          <mxGeometry x="425" y="184.38" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-34" value="非标准话题消息定义目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="392.5" y="216.25" width="142.5" height="30" as="geometry" />
@@ -312,7 +312,7 @@
           <mxGeometry x="420" y="246.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-36" value="msg/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="246.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="244.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-37" value="非标准动作消息定义目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="336.25" width="142.5" height="33.75" as="geometry" />
@@ -321,7 +321,7 @@
           <mxGeometry x="420" y="366.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-39" value="action/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="366.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="364.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-40" value="非标准服务消息定义目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397.5" y="281.25" width="135" height="30" as="geometry" />
@@ -330,7 +330,7 @@
           <mxGeometry x="420" y="306.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-42" value="srv/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="306.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="304.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-43" value="Bash、Python脚本文件目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="397" y="396.25" width="156" height="30" as="geometry" />
@@ -339,7 +339,7 @@
           <mxGeometry x="420" y="426.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-45" value="scripts/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="426.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="424.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-46" value="功能包节点原文件目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="388.75" y="516.25" width="140" height="30" as="geometry" />
@@ -348,7 +348,7 @@
           <mxGeometry x="420" y="546.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-48" value="src/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="546.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="544.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-49" value="节点启动文件目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="402.5" y="456.25" width="120" height="30" as="geometry" />
@@ -357,7 +357,7 @@
           <mxGeometry x="420" y="486.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-51" value="launch/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="486.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="484.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-52" value="功能包清单文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="417.5" y="96.25" width="90" height="30" as="geometry" />
@@ -366,7 +366,7 @@
           <mxGeometry x="420" y="126.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-54" value="Package.xml" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="126.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="124.38" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-55" value="功能包配置文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="417.5" y="36.25" width="90" height="30" as="geometry" />
@@ -375,7 +375,7 @@
           <mxGeometry x="420" y="66.25" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-57" value="CMakeLists.txt" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="66.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="430" y="64.38" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
