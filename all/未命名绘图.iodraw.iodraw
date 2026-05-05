@@ -16,9 +16,6 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-8" value="执行Dijkstra全局路径规划" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="205" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.409;entryY=-0.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MOkQ_K5Fmc2Ylyvm4sNT-4" target="MOkQ_K5Fmc2Ylyvm4sNT-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
