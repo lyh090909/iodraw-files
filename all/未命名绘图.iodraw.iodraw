@@ -34,6 +34,12 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-16" value="Jerk约束平滑处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="375" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-19" value="Jerk约束平滑处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="675" y="445" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
