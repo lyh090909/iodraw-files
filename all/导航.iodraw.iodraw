@@ -351,7 +351,7 @@
           <mxGeometry x="430" y="546.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-49" value="节点启动文件目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="456.25" width="120" height="30" as="geometry" />
+          <mxGeometry x="402.5" y="456.25" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="486.25" width="80" height="30" as="geometry" />
