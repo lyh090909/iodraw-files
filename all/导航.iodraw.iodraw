@@ -160,10 +160,7 @@
           <mxGeometry x="430" y="435" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-35" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="410" y="330" width="180" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="02Ct3SUHQLq5Y5QvFcQX-36" target="02Ct3SUHQLq5Y5QvFcQX-34">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="430" y="330" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-36" value="是否为导航指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="345" width="170" height="30" as="geometry" />
