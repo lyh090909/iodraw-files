@@ -114,7 +114,7 @@
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="355" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-10" value="是否为导航或停止关键词" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-10" value="启动全局目标点导航" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="525" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
