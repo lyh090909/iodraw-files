@@ -154,10 +154,10 @@
           <mxGeometry x="245" y="485" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="275" y="420" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="415" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-34" value="中断机器人当前运动" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="425" width="130" height="30" as="geometry" />
+          <mxGeometry x="275" y="420" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-41" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
           <mxGeometry x="405" y="305" width="160" height="70" as="geometry" />
