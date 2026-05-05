@@ -26,10 +26,10 @@
           <mxGeometry x="405" y="225" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="625" y="220" width="160" height="40" as="geometry" />
+          <mxGeometry x="610" y="220" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-14" value="DWA局部路径规划" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="225" width="150" height="30" as="geometry" />
+          <mxGeometry x="615" y="225" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="400" width="160" height="40" as="geometry" />
