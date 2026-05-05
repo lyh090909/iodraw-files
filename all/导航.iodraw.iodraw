@@ -300,10 +300,10 @@
           <mxGeometry x="391.25" y="165" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="396.25" y="195" width="122.5" height="30" as="geometry" />
+          <mxGeometry x="407.5" y="195" width="122.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-33" value="Include/&amp;lt;pkg_name&amp;gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="195" width="70" height="30" as="geometry" />
+          <mxGeometry x="433.75" y="195" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-34" value="非标准话题消息定义目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="225" width="142.5" height="30" as="geometry" />
