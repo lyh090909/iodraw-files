@@ -106,7 +106,7 @@
           <mxGeometry x="270" y="115" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="180" width="140" height="40" as="geometry" />
+          <mxGeometry x="280" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-8" value="百度语音识别" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="265" y="185" width="150" height="30" as="geometry" />
@@ -118,7 +118,7 @@
           <mxGeometry x="520" y="360" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="350" width="160" height="40" as="geometry" />
+          <mxGeometry x="70" y="350" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-13" value="语义分析" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="75" y="355" width="150" height="30" as="geometry" />
