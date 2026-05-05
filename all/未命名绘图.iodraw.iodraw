@@ -19,7 +19,7 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-12" value="Dijkstra全局路径规划" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-12" value="子目标提取与虚拟区域切换" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="410" y="245" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
