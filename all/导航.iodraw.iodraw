@@ -112,10 +112,10 @@
           <mxGeometry x="265" y="185" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="425" width="160" height="40" as="geometry" />
+          <mxGeometry x="440" y="420" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-10" value="启动全局目标点导航" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="642.5" y="430" width="115" height="30" as="geometry" />
+          <mxGeometry x="442.5" y="425" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="105" y="320" width="120" height="40" as="geometry" />
