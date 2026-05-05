@@ -165,6 +165,12 @@
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-34" value="语义分析" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="225" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-35" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
+          <mxGeometry x="255" y="260" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-36" value="是否为导航/停止类指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="285" width="170" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
