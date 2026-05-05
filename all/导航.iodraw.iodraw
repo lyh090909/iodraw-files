@@ -160,10 +160,10 @@
           <mxGeometry x="615" y="445" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-35" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="425" y="330" width="190" height="80" as="geometry" />
+          <mxGeometry x="410" y="320" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-36" value="是否为导航指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="435" y="355" width="170" height="30" as="geometry" />
+          <mxGeometry x="420" y="345" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
