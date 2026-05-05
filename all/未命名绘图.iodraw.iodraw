@@ -25,7 +25,7 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="290" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-14" value="子目标提取与虚拟区域切换" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-14" value="DWA局部路径规划" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="675" y="295" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
