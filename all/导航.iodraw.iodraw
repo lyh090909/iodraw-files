@@ -145,7 +145,7 @@
           <mxGeometry x="140" y="245" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-26" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="405" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="85" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-29" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="480" width="160" height="40" as="geometry" />
@@ -166,10 +166,10 @@
           <mxGeometry x="525" y="425" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-35" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;spacing=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="275" width="190" height="80" as="geometry" />
+          <mxGeometry x="500" y="250" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-36" value="是否为导航指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="300" width="170" height="30" as="geometry" />
+          <mxGeometry x="510" y="275" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
