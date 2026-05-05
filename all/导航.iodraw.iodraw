@@ -342,12 +342,12 @@
           <mxGeometry x="430" y="426.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-46" value="功能包节点原文件目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="516.25" width="140" height="30" as="geometry" />
+          <mxGeometry x="388.75" y="516.25" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-47" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="546.25" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="QQBZyrhDXzsn2oAQS0-d-48" value="sre/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="QQBZyrhDXzsn2oAQS0-d-48" value="src/" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="546.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-49" value="节点启动文件目录" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
