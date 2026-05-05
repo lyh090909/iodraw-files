@@ -294,7 +294,7 @@
           <mxGeometry x="270" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-30" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="95" width="50" height="220" as="geometry" />
+          <mxGeometry x="340" y="47.5" width="50" height="315" as="geometry" />
         </mxCell>
         <mxCell id="QQBZyrhDXzsn2oAQS0-d-31" value="源文件空间配置文件" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="362.5" y="50" width="135" height="30" as="geometry" />
