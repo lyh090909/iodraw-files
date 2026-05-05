@@ -8,13 +8,13 @@
           <mxGeometry x="430" y="100" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="190" width="140" height="60" as="geometry" />
+          <mxGeometry x="420" y="190" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-7" value="开始" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=13;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-8" value="执行Dijkstra全局路径规划" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="205" width="140" height="30" as="geometry" />
+          <mxGeometry x="425" y="205" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
