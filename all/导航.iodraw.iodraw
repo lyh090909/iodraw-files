@@ -145,7 +145,7 @@
           <mxGeometry x="260" y="245" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-21" value="是否为导航/停止类指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="265" width="145" height="30" as="geometry" />
+          <mxGeometry x="267.5" y="265" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-25" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="245" width="60" height="30" as="geometry" />
@@ -172,6 +172,9 @@
           <mxGeometry x="400" y="325" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="02Ct3SUHQLq5Y5QvFcQX-7" target="02Ct3SUHQLq5Y5QvFcQX-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="02Ct3SUHQLq5Y5QvFcQX-20" target="02Ct3SUHQLq5Y5QvFcQX-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
