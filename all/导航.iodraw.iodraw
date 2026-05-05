@@ -112,10 +112,10 @@
           <mxGeometry x="265" y="185" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="270" width="160" height="40" as="geometry" />
+          <mxGeometry x="620" y="425" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-10" value="启动全局目标点导航" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="635" y="275" width="150" height="30" as="geometry" />
+          <mxGeometry x="625" y="430" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="120" height="40" as="geometry" />
@@ -125,6 +125,11 @@
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="425" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="02Ct3SUHQLq5Y5QvFcQX-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="02Ct3SUHQLq5Y5QvFcQX-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="399.9999999999998" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="02Ct3SUHQLq5Y5QvFcQX-15" value="生成应答文本" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="430" width="150" height="30" as="geometry" />
