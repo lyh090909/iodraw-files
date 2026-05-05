@@ -55,10 +55,10 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-23" value="子目标后是否偏离原全局路径" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="395" y="425" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MOkQ_K5Fmc2Ylyvm4sNT-6">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="490" y="320" as="sourcePoint" />
-            <mxPoint x="480" y="240" as="targetPoint" />
+            <mxPoint x="479.86" y="190" as="sourcePoint" />
+            <mxPoint x="479.86" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
