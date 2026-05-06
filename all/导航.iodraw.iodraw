@@ -386,7 +386,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="CCrPPXfgup7tQGIfxd_s-1" value="订阅速度指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CCrPPXfgup7tQGIfxd_s-2" value="轮速限幅约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
@@ -394,10 +394,10 @@
         <mxCell id="CCrPPXfgup7tQGIfxd_s-3" value="差速运动学解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCrPPXfgup7tQGIfxd_s-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCrPPXfgup7tQGIfxd_s-7" value="位姿反馈与发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCrPPXfgup7tQGIfxd_s-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCrPPXfgup7tQGIfxd_s-8" value="驱动机器人运动" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCrPPXfgup7tQGIfxd_s-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
