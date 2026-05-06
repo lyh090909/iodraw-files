@@ -381,15 +381,21 @@
     </mxGraphModel>
   </diagram>
   <diagram id="v3bCNzEl5vual-0S1L7z" name="第 4 页">
-    <mxGraphModel dx="1002" dy="1728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="334" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CCrPPXfgup7tQGIfxd_s-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CCrPPXfgup7tQGIfxd_s-1" target="CCrPPXfgup7tQGIfxd_s-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="CCrPPXfgup7tQGIfxd_s-1" value="订阅速度指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CCrPPXfgup7tQGIfxd_s-2" value="轮速限幅约束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CCrPPXfgup7tQGIfxd_s-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CCrPPXfgup7tQGIfxd_s-3" target="CCrPPXfgup7tQGIfxd_s-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CCrPPXfgup7tQGIfxd_s-3" value="差速运动学解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="130" width="120" height="40" as="geometry" />
