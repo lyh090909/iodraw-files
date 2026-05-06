@@ -403,8 +403,8 @@
         <mxCell id="CCrPPXfgup7tQGIfxd_s-10" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="370" y="-30" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCrPPXfgup7tQGIfxd_s-11" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="80" width="60" height="30" as="geometry" />
+        <mxCell id="CCrPPXfgup7tQGIfxd_s-11" value="30Hz 控制周期启动" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
