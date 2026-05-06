@@ -391,7 +391,7 @@
         <mxCell id="CCrPPXfgup7tQGIfxd_s-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CCrPPXfgup7tQGIfxd_s-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="CCrPPXfgup7tQGIfxd_s-3" value="差速运动学解算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CCrPPXfgup7tQGIfxd_s-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
