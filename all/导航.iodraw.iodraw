@@ -453,6 +453,9 @@
         <mxCell id="VQJ6rnnw8WumH1Fnx1DU-4" value="扬声器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="380" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="VQJ6rnnw8WumH1Fnx1DU-8" value="/move_base_simple/goal" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
