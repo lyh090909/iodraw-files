@@ -40,7 +40,7 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-16" value="Jerk约束平滑处理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-16" value="&lt;b&gt;Jerk约束平滑处理&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="405" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -79,10 +79,10 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MOkQ_K5Fmc2Ylyvm4sNT-18" target="MOkQ_K5Fmc2Ylyvm4sNT-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-40" value="否" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-40" value="&lt;b&gt;否&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="390" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-41" value="是" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-41" value="&lt;b&gt;是&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="500" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
