@@ -46,13 +46,13 @@
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="470" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-19" value="输出平滑速度指令" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-19" value="&lt;b&gt;输出平滑速度指令&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="405" y="475" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-20" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontStyle=0" parent="1" vertex="1">
           <mxGeometry x="430" y="540" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-21" value="导航结束" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;horizontal=1;" parent="1" vertex="1">
+        <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-21" value="&lt;b&gt;导航结束&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=12;horizontal=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="550" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MOkQ_K5Fmc2Ylyvm4sNT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MOkQ_K5Fmc2Ylyvm4sNT-22" target="MOkQ_K5Fmc2Ylyvm4sNT-11" edge="1">
